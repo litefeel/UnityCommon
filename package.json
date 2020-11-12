@@ -1,0 +1,29 @@
+{
+  "name": "com.litefeel.unitycommon",
+  "displayName": "UnityCommon",
+  "version": "0.0.1",
+  "unity": "2018.2",
+  "description": "Unity common",
+  "keywords": [
+    "Unity",
+    "Library",
+    "Bitmap"
+  ],
+  "author": {
+    "name": "litefeel",
+    "email": "litefeel@gmial.com",
+    "url": "https://www.litefeel.com"
+  },
+  "category": "Tools",
+  "type": "tool",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litefeel/UnityCommon.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/litefeel/UnityCommon/issues"
+  },
+  "homepage": "https://github.com/litefeel/UnityCommon#readme"
+}
