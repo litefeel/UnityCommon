@@ -2,12 +2,11 @@
   "name": "com.litefeel.unitycommon",
   "displayName": "UnityCommon",
   "version": "0.0.1",
-  "unity": "2018.2",
+  "unity": "2018.4",
   "description": "Unity common",
   "keywords": [
     "Unity",
-    "Library",
-    "Bitmap"
+    "Library"
   ],
   "author": {
     "name": "litefeel",
