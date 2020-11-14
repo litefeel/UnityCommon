@@ -1,8 +1,8 @@
-# Bitmap Font Importer
+# Unity Common
 
 [![Test](https://github.com/litefeel/UnityCommon/workflows/Test/badge.svg)](https://github.com/litefeel/UnityCommon/actions)
 [![](https://img.shields.io/github/release/litefeel/UnityCommon.svg?label=latest%20version)](https://github.com/litefeel/UnityCommon/releases)
-[![](https://img.shields.io/github/license/litefeel/UnityCommon.svg)](https://github.com/litefeel/UnityCommon/blob/master/LICENSE.md)
+[![](https://img.shields.io/github/license/litefeel/UnityCommon.svg)](https://github.com/litefeel/UnityCommon/blob/main/LICENSE.md)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/litefeel)
 
 [UnityCommon](https://github.com/litefeel/UnityCommon) unity common
