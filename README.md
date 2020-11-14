@@ -25,7 +25,7 @@ Find the manifest.json file in the Packages folder of your project and edit it t
     }
   ],
   "dependencies": {
-    "com.litefeel.unitycommon": "0.0.1",
+    "com.litefeel.unitycommon": "0.0.2",
     ...
   }
 }
@@ -37,7 +37,7 @@ Find the manifest.json file in the Packages folder of your project and edit it t
 ``` js
 {
   "dependencies": {
-    "com.litefeel.unitycommon": "https://github.com/litefeel/UnityCommon.git#0.0.1",
+    "com.litefeel.unitycommon": "https://github.com/litefeel/UnityCommon.git#0.0.2",
     ...
   }
 }

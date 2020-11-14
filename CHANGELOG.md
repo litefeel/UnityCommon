@@ -1,3 +1,3 @@
 
-V1.0    11/11/2020
+V0.0.2    11/11/2020
 - [NEW]     The first public version
